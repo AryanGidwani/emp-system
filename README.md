@@ -1,1 +1,1 @@
-This file contains an employee management system project, which was programmed in my grade 12 computer science class. It uses a swing GUI in Netbeans, and utilizes multiple data structures, such as hash tables and linked lists.
+This repository contains an employee management system project, which was programmed in my grade 12 computer science class. It uses a swing GUI in Netbeans, and utilizes multiple data structures such as hash tables and linked lists.
